@@ -1,0 +1,46 @@
+George Washington:I:1789:1797:John Adams
+John Adams:F:1797:1801:Thomas Jefferson
+Thomas Jefferson:DR:1801:1809:Aaron Burr
+James Madison:DR:1809:1817:George Clinton
+James Monroe:DR:1817:1825:Daniel Tompkins
+John Quincy Adams:I:1825:1829:John Calhoun
+Andrew Jackson:D:1829:1837:John Calhoun2
+Martin Van Buren:D:1837:1841:Richard M. Johnson
+William Henry Harrison:W:1841:1841:John Tyler
+John Tyler:W:1841:1845:No VP
+James Polk:D:1845:1849:George Dallas
+Zachary Taylor:W:1849:1850:Millard Fillmore
+Millard Fillmore:W:1850:1853:No VP
+Franklin Pierce:D:1853:1857:William King
+James Buchanan:D:1857:1861:John Breckinridge
+Abraham Lincoln:R:1861:1865:Hannibal Hamlin
+Andrew Johnson:D:1865:1869:No VP
+Ulysses S. Grant:R:1869:1877:Schuyler Colfax
+Rutherford B. Hayes:R:1877:1881:William Wheeler
+James Garfield:R:1881:1881:Chester Arthur
+Chester A. Arthur:R:1881:1885:No VP
+Grover Cleveland:D:1885:1889:Thomas Hendricks
+Benjamin Harrison:R:1889:1893:Levi Morton
+Grover Cleveland:D:1893:1897:Adlai Stevenson
+William McKinley:R:1897:1901:Garret Hobart
+Theodore Roosevelt:R:1901:1909:Charles Fairbanks
+William Howard Taft:R:1909:1913:James Sherman
+Woodrow Wilson:D:1913:1921:Thomas Marshall
+Warren G. Harding:R:1921:1923:Calvin Coolidge
+Calvin Coolidge:R:1923:1929:Charles Dawes
+Herbert Hoover:R:1929:1933:Charles Curtis
+Franklin D. Roosevelt:D:1933:1945:John Nance Garner
+Harry S. Truman:D:1945:1953:Alben Barkley
+Dwight Eisenhower:R:1953:1961:Richard Nixon
+John F. Kennedy:D:1961:1963:Lyndon Johnson
+Lyndon Johnson:D:1963:1969:Hubert Humphrey
+Richard Nixon:R:1969:1974:Spiro Agnew
+Gerald Ford:R:1974:1977:Nelson Rockefeller
+Jimmy Carter:D:1977:1981:Walter Mondale
+Ronald Reagan:R:1981:1989:George Bush
+George Bush:R:1989:1993:Dan Quayle
+Bill Clinton:D:1993:2001:Al Gore
+George W. Bush:R:2001:2009:Dick Cheney
+Barack Obama:D:2009:2017:Joe Biden
+Donald Trump:R:2017:2021:Mike Pence
+Joe Biden:D:2021:2024:Kamala Harris
